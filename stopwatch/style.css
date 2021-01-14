@@ -1,0 +1,18 @@
+body {
+    background-color: powderblue;
+}
+
+p {
+    color: red;
+    font-family: 'Cambria';
+    font-size: 120%;
+}
+
+#head1 {
+    color: blue;
+}
+
+#head2 {
+    color: blue;
+}
+
